@@ -1,0 +1,6 @@
+*.lib
+*.bld
+*.html
+*.mbed
+mbed/
+mbed_config.h
